@@ -163,4 +163,4 @@ python runClassifier.py
 
 ## 👤 Author
 
-Aavash Adhikari — Fisk University, Computer Science
+Aavash Kuikel— Fisk University, Computer Science
